@@ -1,16 +1,21 @@
-## Hi there 👋
+```txt
+Emma Behrens
 
-<!--
-**behrense/behrense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[ STATUS ]
+Researching AI-integrated EEG analysis, neurodegenerative disease mechanism modeling, and cell signaling and biophysics.
 
-Here are some ideas to get you started:
+[ TRACKS ]
+Neurotechnology
+Business analytics
+Computational neural modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ SKILLS ]
+Python | SQL | Statistics | ML
+
+[ PRIORITIES ]
+> building technical projects
+> research collaboration
+
+[ PROJECTS ]
+Role of Astrocytic EAAT2 Dysregulation and RIPK1-Mediated Necroptosis in Huntington's Disease using hiPSC-derived Human Models
+```
