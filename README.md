@@ -19,6 +19,6 @@ Python | SQL | Statistics | ML
 [ PROJECTS ]
 Role of Astrocytic EAAT2 Dysregulation and RIPK1-Mediated Necroptosis in Huntington's Disease using hiPSC-derived Human Models
 
-[ OUTLOOK ]
+OUTLOOK 
 BULLISH
 ```
