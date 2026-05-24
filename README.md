@@ -1,13 +1,13 @@
 ```txt
-Emma Behrens
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EMMA.BHRNS — NEUROTECH INDEX
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[ STATUS ]
-Researching AI-integrated EEG analysis, neurodegenerative disease mechanism modeling, and cell signaling and biophysics.
-
-[ TRACKS ]
-Neurotechnology
-Business analytics
-Computational neural modeling
+CURRENT POSITIONS
+▲ AI-integrated EEG analysis
+▲ Neurogenerative disease mechanism modeling
+▲ Cell signaling and biophysics
+▲ Business analytics
 
 [ SKILLS ]
 Python | SQL | Statistics | ML
@@ -18,4 +18,7 @@ Python | SQL | Statistics | ML
 
 [ PROJECTS ]
 Role of Astrocytic EAAT2 Dysregulation and RIPK1-Mediated Necroptosis in Huntington's Disease using hiPSC-derived Human Models
+
+OUTLOOK
+BULLISH
 ```
