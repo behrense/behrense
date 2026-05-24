@@ -4,13 +4,13 @@ EMMA.BHRNS — NEUROTECH INDEX
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 CURRENT POSITIONS
-▲ AI-integrated EEG analysis
+▲ ML and DL integrated EEG analysis
 ▲ Neurogenerative disease mechanism modeling
 ▲ Cell signaling and biophysics
 ▲ Business analytics
 
 [ SKILLS ]
-Python | SQL | Statistics | ML
+Python | R | SQL | Data analysis | ML
 
 [ PRIORITIES ]
 > building technical projects
