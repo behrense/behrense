@@ -17,8 +17,8 @@ Python | R | SQL | Data analysis | ML
 > research collaboration
 
 [ PROJECTS ]
-Role of Astrocytic EAAT2 Dysregulation and RIPK1-Mediated Necroptosis in Huntington's Disease using hiPSC-derived Human Models
-Advanced EEG dataset analysis
+> Role of Astrocytic EAAT2 Dysregulation and RIPK1-Mediated Necroptosis in Huntington's Disease using hiPSC-derived Human Models
+> Advanced EEG dataset analysis
 
 OUTLOOK 
 BULLISH
