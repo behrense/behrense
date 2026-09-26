@@ -10,15 +10,14 @@ CURRENT POSITIONS
 ▲ Business analytics
 
 [ SKILLS ]
-Python | R | SQL | Data analysis | ML
+Python | MATLAB | C++ | Arduino | Data analysis | ML 
 
 [ PRIORITIES ]
-> building technical projects
-> research collaboration
+> Integrating EEG into PPG & HRV tracking to make Pulse a well-rounded device for seizure detection
+> Working with EEG in real time in a collaborative research environment
 
 [ PROJECTS ]
-> Role of Astrocytic EAAT2 Dysregulation and RIPK1-Mediated Necroptosis in Huntington's Disease using hiPSC-derived Human Models
-> Advanced EEG dataset analysis
+> Pulse by Neuryn.ai
 
 OUTLOOK 
 BULLISH
